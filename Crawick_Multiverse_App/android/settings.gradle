@@ -1,0 +1,3 @@
+rootProject.name = 'Crawick_Multiverse_App'
+
+include ':app'
